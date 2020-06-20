@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Twas brillig and the slithy toves"
 ---
-Your text
+Did gyre and gimble in the wabe.
 Use the left arrow to go back!
